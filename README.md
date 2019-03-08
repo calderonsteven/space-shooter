@@ -1,4 +1,5 @@
 # Joystick based shooter with a-frame
 
-install using yarn or npm
-run `npm run dev` to start server
+Require a joycon connected as gamepad
+
+https://calderonsteven.github.io/space-shooter/index.html
