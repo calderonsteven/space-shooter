@@ -1,2 +1,4 @@
-# space-shooter
-Use your gamepad to play this tiny "game"
+# Joystick based shooter with a-frame
+
+install using yarn or npm
+run `npm run dev` to start server

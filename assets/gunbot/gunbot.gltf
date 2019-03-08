@@ -1,0 +1,823 @@
+{
+  "accessors": {
+    "accessor_index_0": {
+      "bufferView": "bufferView_1",
+      "byteOffset": 0,
+      "byteStride": 0,
+      "componentType": 5123,
+      "count": 96,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        35
+      ]
+    },
+    "accessor_index_1": {
+      "bufferView": "bufferView_1",
+      "byteOffset": 192,
+      "byteStride": 0,
+      "componentType": 5123,
+      "count": 354,
+      "type": "SCALAR",
+      "min": [
+        36
+      ],
+      "max": [
+        155
+      ]
+    },
+    "accessor_index_2": {
+      "bufferView": "bufferView_1",
+      "byteOffset": 900,
+      "byteStride": 0,
+      "componentType": 5123,
+      "count": 30846,
+      "type": "SCALAR",
+      "min": [
+        156
+      ],
+      "max": [
+        19678
+      ]
+    },
+    "accessor_index_3": {
+      "bufferView": "bufferView_1",
+      "byteOffset": 62592,
+      "byteStride": 0,
+      "componentType": 5123,
+      "count": 2880,
+      "type": "SCALAR",
+      "min": [
+        6740
+      ],
+      "max": [
+        12588
+      ]
+    },
+    "accessor_index_4": {
+      "bufferView": "bufferView_1",
+      "byteOffset": 68352,
+      "byteStride": 0,
+      "componentType": 5123,
+      "count": 25068,
+      "type": "SCALAR",
+      "min": [
+        6966
+      ],
+      "max": [
+        17367
+      ]
+    },
+    "accessor_index_5": {
+      "bufferView": "bufferView_1",
+      "byteOffset": 118488,
+      "byteStride": 0,
+      "componentType": 5123,
+      "count": 4536,
+      "type": "SCALAR",
+      "min": [
+        10014
+      ],
+      "max": [
+        19470
+      ]
+    },
+    "accessor_index_6": {
+      "bufferView": "bufferView_1",
+      "byteOffset": 127560,
+      "byteStride": 0,
+      "componentType": 5123,
+      "count": 1248,
+      "type": "SCALAR",
+      "min": [
+        10731
+      ],
+      "max": [
+        13353
+      ]
+    },
+    "accessor_index_7": {
+      "bufferView": "bufferView_1",
+      "byteOffset": 130056,
+      "byteStride": 0,
+      "componentType": 5123,
+      "count": 10704,
+      "type": "SCALAR",
+      "min": [
+        10763
+      ],
+      "max": [
+        17799
+      ]
+    },
+    "accessor_index_8": {
+      "bufferView": "bufferView_1",
+      "byteOffset": 151464,
+      "byteStride": 0,
+      "componentType": 5123,
+      "count": 672,
+      "type": "SCALAR",
+      "min": [
+        17800
+      ],
+      "max": [
+        17968
+      ]
+    },
+    "accessor_index_9": {
+      "bufferView": "bufferView_1",
+      "byteOffset": 152808,
+      "byteStride": 0,
+      "componentType": 5123,
+      "count": 48,
+      "type": "SCALAR",
+      "min": [
+        19132
+      ],
+      "max": [
+        19147
+      ]
+    },
+    "accessor_index_10": {
+      "bufferView": "bufferView_1",
+      "byteOffset": 152904,
+      "byteStride": 0,
+      "componentType": 5123,
+      "count": 72,
+      "type": "SCALAR",
+      "min": [
+        19140
+      ],
+      "max": [
+        19486
+      ]
+    },
+    "accessor_position": {
+      "bufferView": "bufferView_0",
+      "byteOffset": 0,
+      "byteStride": 0,
+      "componentType": 5126,
+      "count": 18757,
+      "min": [
+        -0.833782970905304,
+        -1.620939016342163,
+        -1.1712180376052856
+      ],
+      "max": [
+        0.605476975440979,
+        1.3339669704437256,
+        1.0161319971084595
+      ],
+      "type": "VEC3"
+    },
+    "accessor_normal": {
+      "bufferView": "bufferView_0",
+      "byteOffset": 225084,
+      "byteStride": 0,
+      "componentType": 5126,
+      "count": 18757,
+      "type": "VEC3",
+      "min": [
+        -0.9997826814651489,
+        -0.9997429251670837,
+        -0.9998904466629028
+      ],
+      "max": [
+        0.9996129870414734,
+        0.9999428391456604,
+        0.9997833967208862
+      ]
+    }
+  },
+  "asset": {
+    "generator": "OBJ2GLTF",
+    "premultipliedAlpha": true,
+    "profile": {
+      "api": "WebGL",
+      "version": "1.0"
+    },
+    "version": "1.0"
+  },
+  "buffers": {
+    "buffer_0": {
+      "type": "arraybuffer",
+      "byteLength": 603216,
+      "uri": "buffer_0.bin"
+    }
+  },
+  "bufferViews": {
+    "bufferView_0": {
+      "buffer": "buffer_0",
+      "byteLength": 450168,
+      "byteOffset": 0,
+      "target": 34962
+    },
+    "bufferView_1": {
+      "buffer": "buffer_0",
+      "byteLength": 153048,
+      "byteOffset": 450168,
+      "target": 34963
+    }
+  },
+  "images": {},
+  "materials": {
+    "material_Grass": {
+      "name": "Grass",
+      "extensions": {},
+      "values": {
+        "ambient": [
+          0,
+          0,
+          0,
+          1
+        ],
+        "diffuse": [
+          0.96,
+          0.96,
+          0.96,
+          1
+        ],
+        "emission": [
+          0,
+          0,
+          0,
+          1
+        ],
+        "specular": [
+          0.1,
+          0.1,
+          0.1,
+          1
+        ],
+        "shininess": 96.078431,
+        "transparency": 1
+      },
+      "technique": "technique0"
+    },
+    "material_Material.001": {
+      "name": "Material.001",
+      "extensions": {},
+      "values": {
+        "ambient": [
+          0,
+          0,
+          0,
+          1
+        ],
+        "diffuse": [
+          0.807059,
+          0.807059,
+          0.807059,
+          1
+        ],
+        "emission": [
+          0,
+          0,
+          0,
+          1
+        ],
+        "specular": [
+          0.1,
+          0.1,
+          0.1,
+          1
+        ],
+        "shininess": 96.078431,
+        "transparency": 1
+      },
+      "technique": "technique0"
+    },
+    "material_Material_001": {
+      "name": "Material_001",
+      "extensions": {},
+      "values": {
+        "ambient": [
+          0,
+          0,
+          0,
+          1
+        ],
+        "diffuse": [
+          0.96,
+          0.96,
+          0.96,
+          1
+        ],
+        "emission": [
+          0,
+          0,
+          0,
+          1
+        ],
+        "specular": [
+          0.1,
+          0.1,
+          0.1,
+          1
+        ],
+        "shininess": 96.078431,
+        "transparency": 1
+      },
+      "technique": "technique0"
+    },
+    "material_Spder_bot": {
+      "name": "Spder_bot",
+      "extensions": {},
+      "values": {
+        "ambient": [
+          0,
+          0,
+          0,
+          1
+        ],
+        "diffuse": [
+          0.96,
+          0.96,
+          0.96,
+          1
+        ],
+        "emission": [
+          0,
+          0,
+          0,
+          1
+        ],
+        "specular": [
+          0.1,
+          0.1,
+          0.1,
+          1
+        ],
+        "shininess": 96.078431,
+        "transparency": 1
+      },
+      "technique": "technique0"
+    },
+    "material_Spder_bot_Black": {
+      "name": "Spder_bot_Black",
+      "extensions": {},
+      "values": {
+        "ambient": [
+          0,
+          0,
+          0,
+          1
+        ],
+        "diffuse": [
+          0.853333,
+          0.853333,
+          0.853333,
+          1
+        ],
+        "emission": [
+          0,
+          0,
+          0,
+          1
+        ],
+        "specular": [
+          0.1,
+          0.1,
+          0.1,
+          1
+        ],
+        "shininess": 96.078431,
+        "transparency": 1
+      },
+      "technique": "technique0"
+    },
+    "material_Spder_bot_Black__GB_C_jpg": {
+      "name": "Spder_bot_Black__GB_C_jpg",
+      "extensions": {},
+      "values": {
+        "ambient": [
+          0,
+          0,
+          0,
+          1
+        ],
+        "diffuse": [
+          0.853333,
+          0.853333,
+          0.853333,
+          1
+        ],
+        "emission": [
+          0,
+          0,
+          0,
+          1
+        ],
+        "specular": [
+          0.1,
+          0.1,
+          0.1,
+          1
+        ],
+        "shininess": 96.078431,
+        "transparency": 1
+      },
+      "technique": "technique0"
+    },
+    "material_Spder_bot_Black__GB_N_jpg": {
+      "name": "Spder_bot_Black__GB_N_jpg",
+      "extensions": {},
+      "values": {
+        "ambient": [
+          0,
+          0,
+          0,
+          1
+        ],
+        "diffuse": [
+          0.853333,
+          0.853333,
+          0.853333,
+          1
+        ],
+        "emission": [
+          0,
+          0,
+          0,
+          1
+        ],
+        "specular": [
+          0.1,
+          0.1,
+          0.1,
+          1
+        ],
+        "shininess": 96.078431,
+        "transparency": 1
+      },
+      "technique": "technique0"
+    },
+    "material_Spder_bot_Black__Gun_Bot_N": {
+      "name": "Spder_bot_Black__Gun_Bot_N",
+      "extensions": {},
+      "values": {
+        "ambient": [
+          0,
+          0,
+          0,
+          1
+        ],
+        "diffuse": [
+          0.853333,
+          0.853333,
+          0.853333,
+          1
+        ],
+        "emission": [
+          0,
+          0,
+          0,
+          1
+        ],
+        "specular": [
+          0.1,
+          0.1,
+          0.1,
+          1
+        ],
+        "shininess": 96.078431,
+        "transparency": 1
+      },
+      "technique": "technique0"
+    },
+    "material_Spder_bot__GB_C_jpg": {
+      "name": "Spder_bot__GB_C_jpg",
+      "extensions": {},
+      "values": {
+        "ambient": [
+          0,
+          0,
+          0,
+          1
+        ],
+        "diffuse": [
+          0.96,
+          0.96,
+          0.96,
+          1
+        ],
+        "emission": [
+          0,
+          0,
+          0,
+          1
+        ],
+        "specular": [
+          0.1,
+          0.1,
+          0.1,
+          1
+        ],
+        "shininess": 96.078431,
+        "transparency": 1
+      },
+      "technique": "technique0"
+    },
+    "material_Spder_bot__GB_N_jpg": {
+      "name": "Spder_bot__GB_N_jpg",
+      "extensions": {},
+      "values": {
+        "ambient": [
+          0,
+          0,
+          0,
+          1
+        ],
+        "diffuse": [
+          0.96,
+          0.96,
+          0.96,
+          1
+        ],
+        "emission": [
+          0,
+          0,
+          0,
+          1
+        ],
+        "specular": [
+          0.1,
+          0.1,
+          0.1,
+          1
+        ],
+        "shininess": 96.078431,
+        "transparency": 1
+      },
+      "technique": "technique0"
+    },
+    "material_Spder_bot__Gun_Bot_N": {
+      "name": "Spder_bot__Gun_Bot_N",
+      "extensions": {},
+      "values": {
+        "ambient": [
+          0,
+          0,
+          0,
+          1
+        ],
+        "diffuse": [
+          0.96,
+          0.96,
+          0.96,
+          1
+        ],
+        "emission": [
+          0,
+          0,
+          0,
+          1
+        ],
+        "specular": [
+          0.1,
+          0.1,
+          0.1,
+          1
+        ],
+        "shininess": 96.078431,
+        "transparency": 1
+      },
+      "technique": "technique0"
+    }
+  },
+  "meshes": {
+    "mesh_gunbot-with-walk-animation-no-lights": {
+      "name": "gunbot-with-walk-animation-no-lights",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": "accessor_position",
+            "NORMAL": "accessor_normal"
+          },
+          "indices": "accessor_index_0",
+          "material": "material_Grass",
+          "mode": 4
+        },
+        {
+          "attributes": {
+            "POSITION": "accessor_position",
+            "NORMAL": "accessor_normal"
+          },
+          "indices": "accessor_index_1",
+          "material": "material_Material.001",
+          "mode": 4
+        },
+        {
+          "attributes": {
+            "POSITION": "accessor_position",
+            "NORMAL": "accessor_normal"
+          },
+          "indices": "accessor_index_2",
+          "material": "material_Spder_bot",
+          "mode": 4
+        },
+        {
+          "attributes": {
+            "POSITION": "accessor_position",
+            "NORMAL": "accessor_normal"
+          },
+          "indices": "accessor_index_3",
+          "material": "material_Spder_bot__GB_N_jpg",
+          "mode": 4
+        },
+        {
+          "attributes": {
+            "POSITION": "accessor_position",
+            "NORMAL": "accessor_normal"
+          },
+          "indices": "accessor_index_4",
+          "material": "material_Spder_bot__Gun_Bot_N",
+          "mode": 4
+        },
+        {
+          "attributes": {
+            "POSITION": "accessor_position",
+            "NORMAL": "accessor_normal"
+          },
+          "indices": "accessor_index_5",
+          "material": "material_Spder_bot_Black",
+          "mode": 4
+        },
+        {
+          "attributes": {
+            "POSITION": "accessor_position",
+            "NORMAL": "accessor_normal"
+          },
+          "indices": "accessor_index_6",
+          "material": "material_Spder_bot_Black__GB_N_jpg",
+          "mode": 4
+        },
+        {
+          "attributes": {
+            "POSITION": "accessor_position",
+            "NORMAL": "accessor_normal"
+          },
+          "indices": "accessor_index_7",
+          "material": "material_Spder_bot_Black__Gun_Bot_N",
+          "mode": 4
+        },
+        {
+          "attributes": {
+            "POSITION": "accessor_position",
+            "NORMAL": "accessor_normal"
+          },
+          "indices": "accessor_index_8",
+          "material": "material_Material_001",
+          "mode": 4
+        },
+        {
+          "attributes": {
+            "POSITION": "accessor_position",
+            "NORMAL": "accessor_normal"
+          },
+          "indices": "accessor_index_9",
+          "material": "material_Spder_bot__GB_C_jpg",
+          "mode": 4
+        },
+        {
+          "attributes": {
+            "POSITION": "accessor_position",
+            "NORMAL": "accessor_normal"
+          },
+          "indices": "accessor_index_10",
+          "material": "material_Spder_bot_Black__GB_C_jpg",
+          "mode": 4
+        }
+      ]
+    }
+  },
+  "nodes": {
+    "rootNode": {
+      "children": [],
+      "meshes": [
+        "mesh_gunbot-with-walk-animation-no-lights"
+      ],
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    }
+  },
+  "samplers": {},
+  "scene": "scene_gunbot-with-walk-animation-no-lights",
+  "scenes": {
+    "scene_gunbot-with-walk-animation-no-lights": {
+      "nodes": [
+        "rootNode"
+      ]
+    }
+  },
+  "textures": {},
+  "extensionsUsed": [],
+  "animations": {},
+  "cameras": {},
+  "techniques": {
+    "technique0": {
+      "attributes": {
+        "a_position": "position",
+        "a_normal": "normal"
+      },
+      "parameters": {
+        "modelViewMatrix": {
+          "semantic": "MODELVIEW",
+          "type": 35676
+        },
+        "projectionMatrix": {
+          "semantic": "PROJECTION",
+          "type": 35676
+        },
+        "normalMatrix": {
+          "semantic": "MODELVIEWINVERSETRANSPOSE",
+          "type": 35675
+        },
+        "ambient": {
+          "type": 35666
+        },
+        "diffuse": {
+          "type": 35666
+        },
+        "emission": {
+          "type": 35666
+        },
+        "specular": {
+          "type": 35666
+        },
+        "shininess": {
+          "type": 5126
+        },
+        "transparency": {
+          "type": 5126
+        },
+        "position": {
+          "semantic": "POSITION",
+          "type": 35665
+        },
+        "normal": {
+          "semantic": "NORMAL",
+          "type": 35665
+        }
+      },
+      "program": "program0",
+      "states": {
+        "enable": [
+          2884,
+          2929
+        ]
+      },
+      "uniforms": {
+        "u_modelViewMatrix": "modelViewMatrix",
+        "u_projectionMatrix": "projectionMatrix",
+        "u_normalMatrix": "normalMatrix",
+        "u_ambient": "ambient",
+        "u_diffuse": "diffuse",
+        "u_emission": "emission",
+        "u_specular": "specular",
+        "u_shininess": "shininess",
+        "u_transparency": "transparency"
+      }
+    }
+  },
+  "programs": {
+    "program0": {
+      "attributes": [
+        "a_position",
+        "a_normal"
+      ],
+      "fragmentShader": "fragmentShader0",
+      "vertexShader": "vertexShader0"
+    }
+  },
+  "shaders": {
+    "vertexShader0": {
+      "type": 35633,
+      "uri": "vertexShader0.glsl"
+    },
+    "fragmentShader0": {
+      "type": 35632,
+      "uri": "fragmentShader0.glsl"
+    }
+  },
+  "skins": {},
+  "extensions": {}
+}
